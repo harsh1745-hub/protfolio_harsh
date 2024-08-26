@@ -173,7 +173,7 @@ export const Bio = {
       school: "Shri Ramswaroop Memorial University",
       date: " Aug 2022 - Expected 2026",
       grade: "7.75CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at SRMU, Lucknow-Deva. I have completed 4 semesters and have a CGPA of 7.50. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at SRMU, Lucknow-Deva. I have completed 4 semesters and have a CGPA of 7.75. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     },
     {
